@@ -2,19 +2,19 @@
 
 ## Foursquare Task:
 
-###Introduction
+## Introduction
 
 In this project, categories and places were listed using laravel and foursquare api client.
 
 
-####Environment:
+## Environment:
 
 - PHP 7.2
 - Laravel 7.0
 - Guzzle HTTP Client
 - Bootstrap 4.0
 
-####Installation
+## Installation
 First,run from console;
 
     "composer update"
@@ -32,15 +32,14 @@ Fill in the keys under the env file
     FOURSQUARE_CLIENT_SECRETKEY=JKMDXA4VCKY*******
     FOURSQUARE_URL= 'https://api.foursquare.com/v2/'
 
-####Usage
+## Usage
 for run on your local computer. input console   
 
     php artisan serve
 
-###Notes
+## Notes
 
-prepared only with bootstrap, friends who want to improve can develop as vue, react or angular in their projects
-
+vue, react or angular were not used in this project. Friends who want to improve can develop.
 
 
 
